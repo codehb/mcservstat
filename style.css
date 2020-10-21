@@ -1,6 +1,6 @@
 body,html{
-  background:url(https://i.imgur.com/iCZSjWa.png) center no-repeat;
-  background-size:cover;
+  #background:url(https://i.imgur.com/iCZSjWa.png) center no-repeat;
+  #background-size:cover;
   min-height:100%;
   font-family: 'Roboto Mono',  monospace;
   font-size:15px;
